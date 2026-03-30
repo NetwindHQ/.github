@@ -1,6 +1,6 @@
 ## Netwind
 
-Open source developer tools for CI/CD infrastructure.
+Open source developer tools.
 
 ### Projects
 

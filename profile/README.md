@@ -1,8 +1,6 @@
 ## Netwind
 
-Sustainable software, thoughtfully made.
-
-We build tools that outlast trends. Open source projects from [Netwind](https://netwind.pl).
+Open source projects from [Netwind](https://netwind.pl).
 
 ### Projects
 
